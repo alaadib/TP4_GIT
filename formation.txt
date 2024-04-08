@@ -1,0 +1,9 @@
+formations:
+Systèmes embarqués
+CAN
+SYSML
+SECURITE
+BASH
+JIRA
+AGILE
+
