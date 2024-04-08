@@ -1,0 +1,1 @@
+# un script d’installation de git (depuis les sources)
